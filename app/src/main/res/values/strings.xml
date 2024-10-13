@@ -6,7 +6,7 @@
     </string>
     <string name="row_c_head">Row Composable</string>
     <string name="row_c_body">
-        A layout composable that place its cgildren in an horizontal sequence.
+        A layout composable that place its children in an horizontal sequence.
     </string>
     <string name="column_c_head">Column Composable</string>
     <string name="column_c_body">
@@ -15,5 +15,9 @@
     <string name="image_c_head">Image Composable</string>
     <string name="image_c_body">
         Creates a composable that lays out and draws a given Painter class object.
+    </string>
+    <string name="box_c_head">Box Composable</string>
+    <string name="box_c_body">
+        This is layout composable that arranges its children on top other composables or children.
     </string>
 </resources>
