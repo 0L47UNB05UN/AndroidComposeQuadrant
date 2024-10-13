@@ -91,8 +91,6 @@ fun ComposeQuadrants(modifier: Modifier = Modifier) {
 @Composable
 fun ComposeQuadrantsPreview() {
     ComposeQuadrantTheme {
-        Surface {
             ComposeQuadrants()
-        }
     }
 }
