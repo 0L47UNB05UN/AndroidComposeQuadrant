@@ -83,10 +83,6 @@ fun ComposeQuadrants(modifier: Modifier = Modifier) {
             R.string.row_c_head, R.string.column_c_head, R.string.row_c_body,
             R.string.column_c_body, R.color.purple_700, R.color.teal_500, modifier.weight(1F)
         )
-        Quadrants(
-            R.string.row_c_head, R.string.column_c_head, R.string.row_c_body,
-            R.string.column_c_body, R.color.purple_700, R.color.teal_500, modifier.weight(1F)
-        )
     }
 }
 
